@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "AI Image Generator",
-  description: "Generate stunning images from text using AI",
+  description: "Generate stunning images from text prompts using AI",
 };
 
 export default function RootLayout({

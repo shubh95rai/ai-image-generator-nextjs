@@ -11,7 +11,7 @@ export default async function Navbar() {
   // console.log(session);
 
   return (
-    <nav className="sticky top-0 bg-background w-full border-b h-[80px] px-4 flex justify-between items-center">
+    <nav className="sticky top-0 bg-background w-full border-b h-16 px-4 flex justify-between items-center">
       <Link href="/" className="hidden sm:block text-xl font-bold">
         AI Image Generator
       </Link>

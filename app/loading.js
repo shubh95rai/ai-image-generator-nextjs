@@ -2,7 +2,7 @@
 
 function Loader() {
   return (
-    <div className="flex min-h-[calc(100vh-60px)] items-center justify-center">
+    <div className="flex min-h-[calc(100vh-64px)] items-center justify-center">
       <svg
         className="h-10 w-10 animate-spin text-primary"
         xmlns="http://www.w3.org/2000/svg"

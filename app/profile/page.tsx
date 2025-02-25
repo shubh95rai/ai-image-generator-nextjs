@@ -11,7 +11,7 @@ export default async function ProfilePage() {
   const posts = await getPostsAction();
 
   return (
-    <div className="min-h-[calc(100dvh-80px)] p-4">
+    <div className="min-h-[calc(100vh-64px)] p-4">
       <PostsGrid posts={posts} />
     </div>
   );
