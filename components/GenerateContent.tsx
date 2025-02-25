@@ -53,7 +53,7 @@ export default function GenerateContent() {
     }
   }
   return (
-    <div className="grid lg:grid-cols-2 flex-1 h-full w-full items-center py-8 gap-12 lg:gap-0">
+    <div className="grid lg:grid-cols-2 flex-1 h-full w-full items-center py-8 gap- lg:gap-0">
       <div className="lg:border-r h-full place-content-center lg:px-8">
         <div className="lg:max-w-xl sm:max-w-md max-w-sm mx-auto space-y-4">
           <p className="text-neutral-400 text-center">
